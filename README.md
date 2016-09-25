@@ -1,4 +1,4 @@
-# Angular2 University&Domains List		
+# Angular2 University&Domains List		 
 [Angular 2](https://github.com/angular/angular) Api Example built with Angular CLI, RxJS and Webpack.		
 		
 Thanks [@Hipo](https://github.com/Hipo) for provided source [data](https://github.com/Hipo/university-domains-list).		
